@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Orebi E-Commerce website**
 
-- 🌱 I’m currently learning **HTML, CSS, JS, React, Bootstrap, Figma,Tailwind**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React**
 
