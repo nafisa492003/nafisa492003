@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nafisa492003
-<h2 align="left">Hi 👋! My name is AFIFA YESMIN NAFISA<br> and I'm a frontend developer, from Bangladesh</h2>
+
+  <h2 align="left">Hi 👋! My name is AFIFA YESMIN NAFISA<br> and I'm a frontend developer, from Bangladesh</h2>
 
 ###
 
@@ -47,18 +48,6 @@
   <a href="https://www.facebook.com/profile.php?id=100089250445863&mibextid=JRoKGi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nafisa492003/nafisa492003/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nafisa492003/count.svg?"  />
 </div>
 
 ###
