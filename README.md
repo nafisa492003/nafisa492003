@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nafisa492003
 
-  <h2 align="left">Hi 👋! My name is AFIFA YESMIN NAFISA<br> and I'm a frontend developer, from Bangladesh</h2>
+  <h1 align="left">Hi 👋! My name is AFIFA YESMIN NAFISA<br> and I'm a MERN stack developer, from Bangladesh</h2>
 
 ###
 
